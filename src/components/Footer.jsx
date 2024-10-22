@@ -94,13 +94,13 @@ const MainContainer = styled.div`
     align-items: center;
   }
   .img {
-    background: url("./src/assets/footer.png") no-repeat center/cover;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/footer.png") no-repeat center/cover;
     width: 100%;
     height: 40px;
     position: relative;
   }
   .logo {
-    background: url("./src/assets/logo.png") no-repeat center/contain;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/logo.png") no-repeat center/contain;
     width: 50px;
     height: 50px;
   }
