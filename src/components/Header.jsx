@@ -94,7 +94,7 @@ const MainContainer = styled.div`
   justify-content: space-between;
   padding: 0 0.5vw 0 2vw;
   .logo {
-    background-image: url("./src/assets/logo-word.png");
+    background-image: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/logo-word.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
@@ -134,7 +134,7 @@ const MainContainer = styled.div`
     }
   }
   .user-dp {
-    background-image: url("./src/assets/user.png");
+    background-image: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/user.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 55px;
@@ -200,7 +200,7 @@ const Extra = styled.div`
     }
   }
   .user-dp {
-    background-image: url("./src/assets/user.png");
+    background-image: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/user.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 55px;
