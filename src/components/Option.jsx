@@ -76,7 +76,7 @@ const ContactContainer = styled.div`
     color: #337ab7;
   }
   .img {
-    background: url("./src/assets/makerble.png") no-repeat center/cover;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/makerble.png") no-repeat center/cover;
     width: 50px;
     height: 50px;
   }
@@ -158,7 +158,7 @@ const ProjectContainer = styled.div`
     color: #337ab7;
   }
   .img {
-    background: url("./src/assets/makerble-project.png") no-repeat center/cover;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/makerble-project.png") no-repeat center/cover;
     width: 50px;
     height: 50px;
   }
@@ -240,7 +240,7 @@ const AlbumsContainer = styled.div`
     color: #337ab7;
   }
   .img {
-    background: url("./src/assets/makerble.png") no-repeat center/cover;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/makerble.png") no-repeat center/cover;
     width: 50px;
     height: 50px;
   }
@@ -317,17 +317,17 @@ const OrgContainer = styled.div`
     color: #337ab7;
   }
   .img1 {
-    background: url("./src/assets/org1.png") no-repeat center/cover;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/org1.png") no-repeat center/cover;
     width: 50px;
     height: 50px;
   }
   .img2 {
-    background: url("./src/assets/org2.png") no-repeat center/cover;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/org2.png") no-repeat center/cover;
     width: 50px;
     height: 50px;
   }
   .img3 {
-    background: url("./src/assets/org3.png") no-repeat center/cover;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/org3.png") no-repeat center/cover;
     width: 50px;
     height: 50px;
   }
@@ -408,7 +408,7 @@ const BoardContainer = styled.div`
     color: #337ab7;
   }
   .img {
-    background: url("./src/assets/makerble-boards.png") no-repeat center/cover;
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/makerble-boards.png") no-repeat center/cover;
     width: 50px;
     height: 50px;
   }
@@ -463,7 +463,7 @@ const PersonalContainer = styled.div`
   .img {
     width: 100%;
     height: 30vh;
-    background: url("./src/assets/makerble-progress.png") no-repeat
+    background: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/makerble-progress.png") no-repeat
       center/contain;
   }
 `;
