@@ -285,7 +285,7 @@ const MainContainer = styled.div`
     margin: 10px 0 0 5px;
   }
   .user-dp {
-    background-image: url("./src/assets/user.png");
+    background-image: url("https://raw.githubusercontent.com/SurajSG23/Makerble-HomePage/main/src/assets/user.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 55px;
